@@ -6,7 +6,7 @@ Hello there! I'm Navi, a student at [Codam](https://www.codam.nl/). I've been a 
 - 🔭 I'm always looking to work on some awesome new projects!
 - 💻 I'm working on my portfolio website right now *(for the past few years 😛)*
 - 📫 You can reach out to me through:
-  -  mailvoornavi@gmail.com
+  -  contact@navel.dev
   -  https://www.navel.dev *(see 💻)*
 
 **✨ Expertises**
