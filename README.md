@@ -12,7 +12,7 @@ Hello there! I'm Navi, a student at [Codam](https://www.codam.nl/). I've been a 
 **✨ Expertises**
 
 - HTML(5) & CSS(3)
-- JavaScript; TypeScript, Vuejs
-- PHP & OOP
-- MySQL; Databasing
+- JavaScript; TypeScript, Vue.js, Vue Native, React, React Native, Pixi.js, Tree.js
+- PHP & OOP: Laravel, Cake
 - C Programming
+- Lua Programming
