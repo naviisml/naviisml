@@ -2,8 +2,6 @@
 
 Hello there! I'm Navi. I'm a full stack developer, able to make awesome websites and applications for your computer. I'm a student at [Coding College Amsterdam](https://www.codam.nl/) and employed as R&D Developer at Q-lite.
 
-If you're new here and need help setting up your new computer at Q-lite? Check [this awesome guide](https://gitlab.raaak.net/navi.ismail/navi.ismail/-/wikis/home) to get started.
-
 - 🔞 I'm currently 22 years old
 - 🏠 I'm living in the best city, Amsterdam!
 - ⚽ I'm a lover of our home town club, Ajax Amsterdam
