@@ -1,6 +1,6 @@
 **👋 Introduction**
 
-Hello there! I'm Navi. I'm a full stack developer, able to make awesome websites and applications for your computer. I'm a student at [Coding College Amsterdam](https://www.codam.nl/) and employed as R&D Developer at Q-lite.
+Hello there! I'm Navi. I'm a full stack developer, able to make awesome websites and applications for your computer. I'm a student at [Coding College Amsterdam](https://www.codam.nl/) and employed as Developer at Fletcher Hotels.
 
 - 🔞 I'm currently 22 years old
 - 🏠 I'm living in the best city, Amsterdam!
