@@ -1,8 +1,8 @@
 **👋 Introduction**
 
-Hello there! I'm Navi. I'm a full stack developer, able to make awesome websites and applications for your computer. I'm a student at [Coding College Amsterdam](https://www.codam.nl/) and employed as Developer at Fletcher Hotels.
+Hello there! I'm Navi. I'm a full stack developer, able to make awesome websites and applications. I'm employed as Lead Laravel Developer at [Fletcher Hotels](https://www.fletcher.nl/nl/).
 
-- 🔞 I'm currently 22 years old
+- 🔞 I'm currently 23 years old
 - 🏠 I'm living in the best city, Amsterdam!
 - ⚽ I'm a lover of our home town club, Ajax Amsterdam
 - 💻 I'm working on my portfolio website right now *(for the past few years 😛)*
